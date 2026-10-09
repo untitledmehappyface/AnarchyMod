@@ -6,3 +6,5 @@ Microsoft taken down AnarchyMod, which is so dumb.
 This repository hosts a backup of the mod, for version 26.2 and 26.1.2.
 ## IMPORTANT: THIS IS NOT MY MOD. THIS IS ONLY A BACKUP.
 
+Go to the releases page to see downloads.
+
