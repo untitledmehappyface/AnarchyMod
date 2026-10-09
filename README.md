@@ -1,2 +1,6 @@
 # AnarchyMod
-A UNOFFICIAL backup of Anarchy Mod used in 6b6t.
+**FUCK MICROSOFT!!!**
+Microsoft taken down AnarchyMod, which is so dumb.
+This repository hosts a backup of the mod.
+## IMPORTANT: THIS IS NOT MY MOD. THIS IS ONLY A BACKUP.
+
